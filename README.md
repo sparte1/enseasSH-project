@@ -1,2 +1,2 @@
-# enseash-project
+# enseaSH-project
 2G1 TP3 KERBORIOU_JOVENET
